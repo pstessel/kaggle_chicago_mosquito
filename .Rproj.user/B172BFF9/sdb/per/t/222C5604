@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1434050762566.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "222C5604",
+    "lastKnownWriteTime" : 8317951902687258740,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "weather",
+        "contentUrl" : "content?title=weather&file=d89c181c4414427d929088549de7e415.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 22,
+        "totalObservations" : "2944",
+        "variables" : "22"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
